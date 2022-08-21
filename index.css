@@ -1,0 +1,21 @@
+/* Diseño de la hoja de vida*/
+
+h1{
+    text-align: center;
+    background-color: beige;
+    color: brown;
+    border: 16px;
+    border-radius: 14px;
+}
+
+h4{
+    text-align: justify;
+    background-color: beige;
+    color: brown;
+    border: 16px;
+    border-radius: 14px;
+}
+
+body{
+    text-align: justify;
+}
